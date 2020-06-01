@@ -8,3 +8,5 @@ node_modules/
 # Testing files
 *.feature
 temp
+test-harness/
+tests/cucumber/features/
